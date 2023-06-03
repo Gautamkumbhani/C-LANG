@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+	printf("hello");
+	printf("\n2 hello");
+	printf("\n3 hello");
+	return 0;
+}

@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main()
+{
+	float a1=9,a2=4,a3=2,a4=12,a;
+	a=a1*a2/a3+a4;
+	printf("1.=%d",a);
+	return 0;
+
+
+
+
+}
